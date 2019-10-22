@@ -1,0 +1,12 @@
+.click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.click:hover {
+  text-decoration: underline;
+}
+
+.content {
+  display: none;
+}
